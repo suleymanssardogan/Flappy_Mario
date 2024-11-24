@@ -1,0 +1,10 @@
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\bin\Debug\Flappy_Mario.exe.config
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\bin\Debug\Flappy_Mario.exe
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\bin\Debug\Flappy_Mario.pdb
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\obj\Debug\Flappy_Mario.csproj.AssemblyReference.cache
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\obj\Debug\Flappy_Mario.Properties.Resources.resources
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\obj\Debug\Flappy_Mario.csproj.GenerateResource.cache
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\obj\Debug\Flappy_Mario.csproj.CoreCompileInputs.cache
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\obj\Debug\Flappy_Mario.exe
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\obj\Debug\Flappy_Mario.pdb
+C:\Users\Süleyman Sardoğan\source\repos\Flappy_Mario\Flappy_Mario\obj\Debug\Flappy_Mario.Flappy_Mario.resources
